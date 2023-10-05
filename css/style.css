@@ -517,8 +517,9 @@ footer h3 {
     background-color: var(--bg);
   }
   .flex-container .link{
-    font-size: 50%;
+    font-size: 40%;
     padding-top: 0.1rem;
+    max-width: 100%;
   }
 
   .flex-container > div {
