@@ -261,7 +261,6 @@ body {
   color: var(--primary);
   text-decoration: none;
   position: relative;
-  padding: 0 10px;
 }
 
 .flex-container  div  p  a:hover {
